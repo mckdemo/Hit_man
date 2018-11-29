@@ -4,9 +4,9 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/noobg1/hit_men/app/models"
+	"github.com/mckdemo/hit_men/app/models"
 
-	"github.com/noobg1/hit_men/app/services"
+	"github.com/mckdemo/hit_men/app/services"
 
 	"github.com/gorilla/mux"
 )
