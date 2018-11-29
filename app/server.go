@@ -6,13 +6,13 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/mckdemo/hit_men/app/services"
+	"github.com/mckdemo/Hit_men/app/services"
 
-	"github.com/mckdemo/hit_men/app/middleware"
+	"github.com/mckdemo/Hit_men/app/middleware"
 
 	ghandlers "github.com/gorilla/handlers"
 	"github.com/gorilla/mux"
-	"github.com/mckdemo/hit_men/app/handlers"
+	"github.com/mckdemo/Hit_men/app/handlers"
 )
 
 const (
